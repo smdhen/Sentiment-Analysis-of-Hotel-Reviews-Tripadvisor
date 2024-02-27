@@ -1,0 +1,10 @@
+pandas==1.4.2
+psycopg2==2.9.5
+selenium==4.5.0
+matplotlib==3.5.1
+numpy==1.26.2
+pandas==1.4.2
+vaderSentiment==NA
+torch==2.2.0+cu121
+transformers==4.24.0
+gensim==4.1.2
