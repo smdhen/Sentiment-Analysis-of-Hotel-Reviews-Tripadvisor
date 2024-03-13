@@ -8,3 +8,4 @@ vaderSentiment==NA
 torch==2.2.0+cu121
 transformers==4.24.0
 gensim==4.1.2
+
