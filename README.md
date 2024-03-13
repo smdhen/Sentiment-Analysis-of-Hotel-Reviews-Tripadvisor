@@ -1,5 +1,5 @@
 # <center>Sentiment Analysis of Hotel Reviews Tripadvisor</center>
-##Project overview 
+## Project overview 
 Analyzing sentiments in hotel reviews from [TripAdvisor](https://www.tripadvisor.com/) using Python involves using natural language processing (NLP) techniques to extract insights from textual data. The project typically includes the following steps:
 
     Data Collection: Scraping hotel reviews from TripAdvisor using web scraping techniques or utilizing the TripAdvisor API.
